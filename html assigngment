@@ -3,7 +3,21 @@
          <head>
                <title>Assigment</title>            
          </head>
-                <body bgcolor="grey">
+                 <style>
+                     .background{
+                          background-image:url("ll.jpeg");
+                          background-attachment: fixed;
+                          background-size: cover;
+                          background-position: center;
+                          background-repeat: no-repeat;
+                          color:white
+                          font-size:20px;
+                          margin:0 ;
+                          padding:0 ;
+                          height: 100px;
+                          }
+                </style>
+                <body class="background">
                       <marquee><center><img src="C:\Users\Ama Serwaa\Desktop/fg.jpg" width="500" height="500"></center></marquee> 
                       <p><h3><center><u>NAME</u> </center><h3></p>
                       <p> Ama Konadu Boakye-Dapaah</p>
@@ -21,7 +35,7 @@
                              <li>Discovering new things</li>
                          <ol>
                       </p>
-                    <center><img src="C:\Users\Ama Serwaa\Desktop/download.jpeg" width="300" height="300"></center>
+                    <center><img src="C:\Users\Ama Serwaa\Desktop/tech.jpeg" width="300" height="300"></center>
                   </body>
     </html>
                       
